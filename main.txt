@@ -1,0 +1,4 @@
+/loadrace gator
+/loadrace yc
+/loadrace thief
+/loadmod livelywastelands
