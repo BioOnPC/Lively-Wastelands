@@ -55,7 +55,7 @@
 	return "REROLLING GIVES A @wFREE WEAPON@s";
 
 #define race_portrait
-	return global.spr_portrait[argument1];
+	return global.spr_portrait[argument0];
 	
 #define race_menu_button
 	sprite_index = global.spr_charselect;

@@ -1,3 +1,4 @@
+/loadmod altcharselect
 /loadrace gator
 /loadrace yc
 /loadrace thief
