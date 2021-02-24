@@ -2,4 +2,4 @@
 /loadrace gator
 /loadrace yc
 /loadrace thief
-/loadmod livelywastelands
+/loadmod livelywastelands 
